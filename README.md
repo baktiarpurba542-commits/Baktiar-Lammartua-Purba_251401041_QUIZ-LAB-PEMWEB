@@ -26,17 +26,21 @@ Setiap objek tugas mengikuti struktur atribut standar:
 
 ## Screenshot
 ### Daftar Todo
-![Daftar Todo](<img width="959" height="475" alt="image" src="https://github.com/user-attachments/assets/b7f2d8b9-8e62-47f7-92c4-901456367c03" />
-)
+![<img width="959" height="441" alt="image" src="https://github.com/user-attachments/assets/65b9feba-4ebc-4f45-bf15-3bb5d8500e27" />
+]
 
 ### Tambah Todo
-![Tambah Todo](screenshots/tambah-todo.png)
+![<img width="956" height="439" alt="image" src="https://github.com/user-attachments/assets/28da543e-ee0d-400a-9240-6a2d9824a0e3" />
+]
 
 ### Detail Todo
-![Detail Todo](screenshots/detail-todo.png)
+![<img width="957" height="481" alt="image" src="https://github.com/user-attachments/assets/f7a444ee-4c61-49fc-811a-35a18d111849" />
+]
 
 ### Update Todo
-![Update Todo](screenshots/update-todo.png)
+![<img width="959" height="443" alt="image" src="https://github.com/user-attachments/assets/61eebe2b-6d5e-4451-a332-c0c3e3959ff4" />
+]
 
 ### Hapus Todo
-![Hapus Todo](screenshots/hapus-todo.png)
+![<img width="957" height="481" alt="image" src="https://github.com/user-attachments/assets/bcce86b6-a8b3-4436-a0e1-76f3cb7891c3" />
+]
