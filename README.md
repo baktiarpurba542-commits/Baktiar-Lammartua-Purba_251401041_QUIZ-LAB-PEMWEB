@@ -1,16 +1,25 @@
-# React + Vite
+# Aplikasi Frontend To-Do List (React.js)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplikasi web manajemen daftar tugas sehari-hari (*To-Do List*) berbasis **React.js** dan **Tailwind CSS** yang dibuat untuk memenuhi Kuis Praktikum Pengembangan Frontend.
 
-Currently, two official plugins are available:
+## Fitur Utama
+- **Menampilkan Daftar Tugas**: Menampilkan seluruh daftar tugas beserta informasi judul, status, prioritas, dan deadline.
+- **Melihat Detail Tugas**: Menampilkan informasi lengkap dari tugas yang dipilih.
+- **Menambahkan Tugas**: Menambahkan tugas baru melalui formulir modal pop-up.
+- **Memperbarui Tugas**: Mengubah informasi tugas yang sudah ada secara langsung.
+- **Menghapus Tugas**: Menghapus tugas dengan dialog konfirmasi dan umpan balik pengguna.
+- **Manajemen State Reaktif**: Menggunakan React `useState` sehingga perubahan data langsung tampil tanpa memuat ulang halaman (*reload*).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Struktur Atribut Data
+Setiap objek tugas mengikuti struktur atribut standar:
+- `id`: Identitas unik tugas
+- `title`: Judul tugas
+- `description`: Deskripsi tugas
+- `priority`: Tingkat prioritas (`low`, `high`)
+- `deadline`: Batas waktu penyelesaian tugas
+- `status`: Status pengerjaan (`to-do`, `in-progress`, `completed`)
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Cara Menjalankan Aplikasi di Lokal
+1. Clone repositori ini:
+   ```bash
+   git clone <git clone https://github.com/baktiarpurba542-commits/Baktiar-Lammartua-Purba_251401041_QUIZ-LAB-PEMWEB.git>
