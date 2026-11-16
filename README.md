@@ -22,4 +22,4 @@ Setiap objek tugas mengikuti struktur atribut standar:
 ## Cara Menjalankan Aplikasi di Lokal
 1. Clone repositori ini:
    ```bash
-   git clone <URL_REPOSITORI_GITHUB_ANDA>
+   git clone <git clone https://github.com/baktiarpurba542-commits/Baktiar-Lammartua-Purba_251401041_QUIZ-LAB-PEMWEB.git>
